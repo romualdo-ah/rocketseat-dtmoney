@@ -36,6 +36,11 @@ export function NewTransactionModal({
     await createTransaction(transaction);
 
     onRequestClose();
+
+    setType("");
+    setTitle("");
+    setCategory("");
+    setAmount(0);
   }
   return (
     <Modal
