@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sobre
 dt-money é um app de controle de finanzas pessoais.
 
