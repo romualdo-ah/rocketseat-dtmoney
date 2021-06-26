@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7ba6877df04c29278a6fa712522c62b2050b4226
 # Sobre
 dt-money é um app de controle de finanzas pessoais.
 
