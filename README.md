@@ -21,7 +21,7 @@ O projeto foi desenvolvido a partir do comando boilerplate
     npx create-react-app
 ## Execute no seu computador
 
-Recomendo fazer um clone do projeto e executar os seguintes comandos no terminal:
+ Fazer um clone do projeto e executar os seguintes comandos no terminal:
 
     git clone https://github.com/romualdo-ah/rocketseat-dtmoney.git
     
