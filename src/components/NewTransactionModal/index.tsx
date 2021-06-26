@@ -1,4 +1,4 @@
-import { FormEvent, useContext, useState } from "react";
+import { FormEvent, useState } from "react";
 import { Container, TransactionTypeContainer } from "./styles";
 import Modal from "react-modal";
 import closeImg from "../../assets/close.svg";
