@@ -20,6 +20,3 @@ dt-money é um app de controle de finanzas pessoais.
 O projeto foi desenvolvido a partir do comando boilerplate 
 
     npx create-react-app
-=======
-
->>>>>>> 09f4af391510b1dea37fcc0d276406fb96004d00
