@@ -1,6 +1,10 @@
 # Sobre
-dt-money é um app de controle de finanzas pessoais.
+### Tela inicial
+![Tela Inicial](https://github.com/romualdo-ah/rocketseat-dtmoney/blob/main/public/screencapture-localhost-3000-2021-06-26-21_46_34.png?raw=true)
+### Modal
+![Tela Inicial](https://github.com/romualdo-ah/rocketseat-dtmoney/blob/main/public/screencapture-localhost-3000-2021-06-26-21_47_40.png?raw=true)
 
+dt-money é um app de controle de finanzas pessoais, parte da Trilha Reactjs da rocketseat.
 
 ## Neste app
 
