@@ -30,3 +30,5 @@ O projeto foi desenvolvido a partir do comando boilerplate
     git clone https://github.com/romualdo-ah/rocketseat-dtmoney.git
     
     yarn install
+    
+    yarn start
