@@ -73,6 +73,7 @@ width:100%;
 max-width: 476px;
 background: var(--Background);
 padding: 3rem;
+margin: 0 1rem;
 position: relative;
 border-radius: 0.24rem;
 }

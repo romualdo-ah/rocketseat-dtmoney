@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const Container = styled.header`
   background: var(--Blue);
-  width: 100%;
+  /* width: 100%; */
+
 `;
 
 export const Content = styled.div`
@@ -31,6 +32,10 @@ export const Content = styled.div`
     &:active{
       background: var(--Blue-light);
       color: var(--Titulos);
+    }
+
+    @media (max-width: 600px) {
+      padding:0 1rem;
     }
   }
 `;

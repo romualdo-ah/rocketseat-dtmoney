@@ -68,7 +68,7 @@ export function NewTransactionModal({
           name="Valor"
           id="valor"
           placeholder="Valor"
-          value={amount}
+          // value={amount}
           onChange={(event) => setAmount(Number(event.target.value))}
         />
         <TransactionTypeContainer>
